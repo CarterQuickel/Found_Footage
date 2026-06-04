@@ -1,0 +1,17 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+
+# Rider
+.idea/
+
+# Build files
+*.pdb
